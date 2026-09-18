@@ -9,6 +9,7 @@ const nav = [
   { href: "/characters", label: "Characters", icon: "◉" },
   { href: "/projects", label: "Projects", icon: "▦" },
   { href: "/generations", label: "Generations", icon: "↺" },
+  { href: "/settings", label: "Settings", icon: "⚙" },
 ];
 
 export function Sidebar() {
